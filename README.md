@@ -3,11 +3,6 @@
 - 👀 I’m Web development student at Trybe
 - 🌱 I’m currently learning a lot of things about technology
 
-
-<div align="center">
-  <a href="https://https://github.com/carinacunha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carinacunha&layout=compact&langs_count=7&theme=clean"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Carina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
