@@ -1,7 +1,7 @@
 ### Hi there, I’m Carina
 
 - 👀 I’m Web development student 
-- 🌱 I’m currently learning a lot of things about technology
+- 🌱 I’m currently learning a lot of things about technology including React and Redux
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Carina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
