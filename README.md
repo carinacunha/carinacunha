@@ -1,6 +1,6 @@
 ### Hi there, I’m Carina
 
-- 👀 I’m Web development student at Trybe
+- 👀 I’m Web development student 
 - 🌱 I’m currently learning a lot of things about technology
 
 <div style="display: inline_block"><br>
