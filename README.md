@@ -1,20 +1,22 @@
-### Hi there, I’m Carina
+### Hi there, I’m Carina! 
+I'm a fullstack developer in training. I really enjoy learning new technology-related skills that can have an impact on users' lives. My main focus now is front and back-end development, although I am also interested in data science.
 
-- 👀 I’m Web development student 
-- 🌱 I’m currently learning a lot of things about technology including React and Redux
+* 🌍 I'm based in Belo Horizonte, Brazil
+* ✉️ You can contact me at [carina.cunha13@gmail.com](mailto:carina.cunha13@gmail.com) 
+* 🚀 Currently I'm studying at [Trybe](https://www.betrybe.com/)
+* 🧠 I'm currently learning more about Node, software architecture, TypeScript and Data base
+* 🤝 I'm open to collaborating on projects
+* :weight_lifting_woman: I love sports and my favorites are Crossfit, climbing and trekking
+* :dog: I love almost animals, nature and photography
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Carina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/silvaccarina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carina-cunha-silva-325ba2154" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
+
+### Skills
+[![My Skills](https://skills.thijs.gg/icons?i=git,github,vscode,js,html,css,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=docker,mysql,ts,md,py,jest)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinacunha&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+### Socials
+[![My Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/carina-cunha-silva-325ba2154)
+[![My Socials](https://skillicons.dev/icons?i=instagram)](https://instagram.com/silvaccarina)
+
