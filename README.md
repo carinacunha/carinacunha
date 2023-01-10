@@ -14,7 +14,7 @@ I'm a fullstack developer in training. I really enjoy learning new technology-re
 [![My Skills](https://skills.thijs.gg/icons?i=git,github,vscode,js,html,css,figma&theme=light)](https://skills.thijs.gg)
 [![My Skills](https://skillicons.dev/icons?i=docker,mysql,ts,md,py,jest)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinacunha&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinacunha&layout=compact&theme=material-palenight)](https://github.com/carinacunha/github-readme-stats)
 
 ### Socials
 [![My Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/carina-cunha-silva-325ba2154)
