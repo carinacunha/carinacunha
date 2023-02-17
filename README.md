@@ -17,6 +17,6 @@ I'm a fullstack developer in training. I really enjoy learning new technology-re
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinacunha&layout=compact&theme=material-palenight)](https://github.com/carinacunha/github-readme-stats)
 
 ### Socials
-[![My Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/carina-cunha-silva-325ba2154)
+[![My Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/carinacunhasilva/)
 [![My Socials](https://skillicons.dev/icons?i=instagram)](https://instagram.com/silvaccarina)
 
