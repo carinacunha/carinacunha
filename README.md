@@ -1,5 +1,5 @@
 ### Hi there, I’m Carina! 
-I'm a fullstack developer in training. I really enjoy learning new technology-related skills that can have an impact on users' lives. My main focus now is front and back-end development, although I am also interested in data science.
+I'm a fullstack developer. I really enjoy learning new technology-related skills that can have an impact on users' lives. My main focus now is front and back-end development, although I am also interested in data science.
 
 * 🌍 I'm based in Belo Horizonte, Brazil
 * ✉️ You can contact me at [carina.cunha13@gmail.com](mailto:carina.cunha13@gmail.com) 
